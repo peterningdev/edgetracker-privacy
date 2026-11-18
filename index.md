@@ -10,7 +10,7 @@ The app stores the information you enter on your device, including bankroll name
 
 ## Collection, transmission, and sharing
 
-EdgeTracker does not operate a server and does not collect, sell, or share your information through an EdgeTracker service. The app does not use analytics, advertising, tracking, crash-reporting, or other third-party data-collection services. The app does not send your records over the network on its own. If you choose to export or share a file, the file may be transmitted by the system or the destination app or service, which is then responsible for its own privacy practices. The privacy manifest declares app-only UserDefaults use, tracking disabled, and no collected data types.
+EdgeTracker does not operate a server and does not collect, sell, or share your information through an EdgeTracker service. The app does not use analytics, advertising, tracking, crash-reporting, or other third-party data-collection services. The app does not send your records over the network on its own. If you choose to export or share a file, the file may be transmitted by the system or the destination app or service, which is then responsible for its own privacy practices. The privacy manifest declares app-only UserDefaults access and system uptime access to measure elapsed time between operations within the app. Tracking remains disabled, and no collected data types are declared.
 
 ## Backups and exports
 
